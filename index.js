@@ -9,7 +9,6 @@ const mainPage = fs.readFileSync(`${__dirname}/templates/main.html`, 'utf-8');
 const productItem = fs.readFileSync(`${__dirname}/templates/product_item.html`, 'utf-8');
 const productPage = fs.readFileSync(`${__dirname}/templates/products.html`, 'utf-8');
 
-
 //Re-useables
 const replaceInfo = (page, product, type = 'drinks') => {
     let output = page.replace(/{PRODUCTNAME}/g, product.productName);
