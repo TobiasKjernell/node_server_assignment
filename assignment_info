@@ -1,0 +1,43 @@
+Assignment 1 - Build a Node Server
+
+
+
+This assignment is to test your knowledge of base Node functionality, focusing on the default modules: http, url and fs.
+
+
+
+Your task is to build a multiple page application with a server that delivers content based on the request/response protocol. The subject matter is entirely up to you, and no styling is required.
+
+
+
+To achieve a Godkänt grade you must:
+
+
+
+
+
+Create a webserver
+Create a home page
+Create content for at least 4 routes
+At least two routes must render html directly
+At least two routes must display content that comes from an external file (eg txt or html)
+
+
+To achieve a Välgodkänt grade you must do the above and:
+
+
+
+Read at least two queries passed in the url
+Generate different content based on the queries
+The content for the queries should be stored in external files
+
+
+The actual content, routes and queries are entirety up to you. For ease of assessment, I strongly recommend adding instructions on how to access your routes and queries to the home page. I need to know where I'm supposed to go!
+
+
+
+Submission:
+
+
+
+Github pages does not support Node projects, so just submit a link to the repo.

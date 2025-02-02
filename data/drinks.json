@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "productName": "Cola",
+        "price": "6.5",
+        "from": "USA",
+        "quantity": "6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 1,
+        "productName": "Redbull",
+        "price": "6.99",
+        "from": "Germany",
+        "quantity": "5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 2,
+        "productName": "Beer",
+        "price": "6",
+        "from": "Italy",
+        "quantity": "3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 3,
+        "productName": "Juice",
+        "price": "4",
+        "from": "Sweden",
+        "quantity": "2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 4,
+        "productName": "Cider",
+        "price": "10.2",
+        "from": "Marocco",
+        "quantity": "4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    }
+]

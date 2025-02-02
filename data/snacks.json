@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "productName": "Snicker",
+        "price": "4.6",
+        "from": "USA",
+        "quantity": "7",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 1,
+        "productName": "Kangaroo",
+        "price": "205",
+        "from": "Australia",
+        "quantity": "2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 2,
+        "productName": "Popcorn",
+        "price": "3",
+        "from": "China",
+        "quantity": "2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 3,
+        "productName": "Cookie",
+        "price": "5",
+        "from": "Sweden",
+        "quantity": "4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    },
+    {
+        "id": 4,
+        "productName": "Milk chocolate",
+        "price": "4.6",
+        "from": "Peru",
+        "quantity": "2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nulla optio a velit nam maxime eaque laudantium provident rem, nemo cupiditate laborum iste repellat. Facilis, molestiae molestias? Atque, quidem natus!"
+    }
+]
