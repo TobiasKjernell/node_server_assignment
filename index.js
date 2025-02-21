@@ -50,9 +50,9 @@ const productItemInfo = (data, query, type) => {
 http.createServer((req, res) => {
 
     const { query, pathname } = url.parse(req.url, true);
-    res.writeHead(200, 'Working', { 'content-type': 'text/html' })
     
-    if ( pathname === '/' || pathname === '/main') {
+    if (pathname === '/main'|| pathname === '/') {
+        res.writeHead(200, 'Working', { 'content-type': 'text/html' })
         res.write(mainPage);
         res.end();
 
@@ -64,6 +64,7 @@ http.createServer((req, res) => {
                 res.end();
             }
             else {
+                res.writeHead(200, 'Working', { 'content-type': 'text/html' })
                 if (query.id)
                     res.write(productItemInfo(data, query, 'veggies'))
                 else
@@ -81,6 +82,7 @@ http.createServer((req, res) => {
                 res.end();
             }
             else {
+                res.writeHead(200, 'Working', { 'content-type': 'text/html' })
                 if (query.id)
                     res.write(productItemInfo(data, query, 'drinks'))
                 else
@@ -98,6 +100,7 @@ http.createServer((req, res) => {
                 res.end();
             }
             else {
+                res.writeHead(200, 'Working', { 'content-type': 'text/html' })
                 if (query.id)
                     res.write(productItemInfo(data, query, 'snacks'))
                 else
@@ -115,6 +118,7 @@ http.createServer((req, res) => {
                 res.end();
             }
             else {
+                res.writeHead(200, 'Working', { 'content-type': 'text/html' })
                 if (query.id)
                     res.write(productItemInfo(data, query, 'frozen'))
                 else
