@@ -51,8 +51,8 @@ http.createServer((req, res) => {
 
     const { query, pathname } = url.parse(req.url, true);
     res.writeHead(200, 'Working', { 'content-type': 'text/html' })
-
-    if (pathname === '/' || pathname === '/main') {
+    
+    if ( pathname === '/' || pathname === '/main') {
         res.write(mainPage);
         res.end();
 
